@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-<img align="right" src="https://media.giphy.com/media/xThtalqfyXJRReaH2E/giphy.gif" height="200">
+<img align="right" src="https://media.giphy.com/media/xThtalqfyXJRReaH2E/giphy.gif" height="300">
 
 
 Im James and I enjoy programming within the sneaker resale community.
