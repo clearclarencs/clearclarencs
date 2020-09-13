@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-<img align="right" src="http://rebloggy.com/post/gif-mine-movies-paul-rudd-role-models-christopher-mintz-plasse/5139158870" height="200">
+<img align="right" src="https://giphy.com/gifs/VxZEZSwadd6nK/html5" height="200">
 
 
 Im James and I enjoy programming within the sneaker resale community.
@@ -10,7 +10,7 @@ What im currently up to:
 * Building and maintaing site monitors
 * Improving my error handling techniques using my DSM ACO script
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/be68ce30-37c4-4af4-8ecf-d1ed00bb407c.png" /></a>
+<figure><embed src="https://wakatime.com/share/@Clearclarencs/320865cf-9f25-4ee4-b5d7-c81eed5e0ddd.svg"></embed></figure>
 
 <br/>
 <p align="center">
