@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-<img align="right" src="https://giphy.com/gifs/VxZEZSwadd6nK/html5" height="200">
+<img align="right" src="https://media.giphy.com/media/VxZEZSwadd6nK/giphy.gif" height="200">
 
 
 Im James and I enjoy programming within the sneaker resale community.
@@ -10,7 +10,7 @@ What im currently up to:
 * Building and maintaing site monitors
 * Improving my error handling techniques using my DSM ACO script
 
-<figure><embed src="https://wakatime.com/share/@Clearclarencs/320865cf-9f25-4ee4-b5d7-c81eed5e0ddd.svg"></embed></figure>
+<a href="https://wakatime.com/share/@Clearclarencs/320865cf-9f25-4ee4-b5d7-c81eed5e0ddd.svg" /></a>
 
 <br/>
 <p align="center">
