@@ -10,7 +10,7 @@ What im currently up to:
 * Building and maintaing site monitors
 * Improving my error handling techniques using my DSM ACO script
 
-<a href="https://wakatime.com/share/@Clearclarencs/320865cf-9f25-4ee4-b5d7-c81eed5e0ddd.svg" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/609f9d55-fc5c-4b1c-b39e-7c392332999a.png" /></a>
 
 <br/>
 <p align="center">
