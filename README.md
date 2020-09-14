@@ -5,6 +5,7 @@
 
 
 Im James and I enjoy programming within the sneaker resale community.
+My repos include some useful open-source projects mainly related to that community.
 
 
 What im currently up to:
