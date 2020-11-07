@@ -12,7 +12,7 @@ My repos include some useful open-source projects mainly related to that communi
 
 What im currently up to:
 * Learning JavaScript 1 line at a time
-* Building and maintaing site monitors
+* Building and maintaining site monitors
 * Improving my error handling techniques using my DSM ACO script
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/609f9d55-fc5c-4b1c-b39e-7c392332999a.png" /></a>
