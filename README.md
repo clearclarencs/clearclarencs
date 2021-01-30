@@ -26,7 +26,7 @@ What im currently up to:
 
 <br/>
 <br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/609f9d55-fc5c-4b1c-b39e-7c392332999a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/74251857-6e57-4f27-9a68-bba2acab47d6.png" /></a>
 
 <br/>
 <p align="center">
