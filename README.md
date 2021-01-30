@@ -25,11 +25,9 @@ What im currently up to:
 </a>
 
 <br/>
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Clearclarencs/609f9d55-fc5c-4b1c-b39e-7c392332999a.png" /></a>
 
 <br/>
-
 <p align="center">
     <a href="mailto:jamesmbskipworth@gmail.com"><img height="40" src="https://img.icons8.com/fluent/480/000000/mail.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/james-skipworth-577578195/"><img height="40" src="https://img.icons8.com/color/480/000000/linkedin.png"></a>&nbsp;&nbsp; 
