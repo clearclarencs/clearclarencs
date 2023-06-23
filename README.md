@@ -16,6 +16,7 @@ What im currently up to:
 * Building <a href="https://cydekik.com">Cydekik</a>
 
 ### Some pretty stats
+<a href="https://wakatime.com/@534b145b-8c36-4597-97b2-6ead3fe184ce"><img src="https://wakatime.com/badge/user/534b145b-8c36-4597-97b2-6ead3fe184ce.svg" alt="Total time coded since May 3 2020" /></a>
 <a href="https://github.com/clearclarencs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clearclarencs&show_icons=true&include_all_commits=true&theme=radical" alt="Clearclarencs's github stats" />
 </a>
@@ -23,7 +24,6 @@ What im currently up to:
 <a href="https://github.com/clearclarencs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clearclarencs&layout=compact&theme=radical" />
 </a>
-<a href="https://wakatime.com/@534b145b-8c36-4597-97b2-6ead3fe184ce"><img src="https://wakatime.com/badge/user/534b145b-8c36-4597-97b2-6ead3fe184ce.svg" alt="Total time coded since May 3 2020" /></a>
 
 <br/>
 <p align="center">
