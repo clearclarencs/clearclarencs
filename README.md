@@ -23,6 +23,7 @@ What im currently up to:
 <a href="https://github.com/clearclarencs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clearclarencs&layout=compact&theme=radical" />
 </a>
+[![wakatime](https://wakatime.com/badge/user/534b145b-8c36-4597-97b2-6ead3fe184ce.svg)](https://wakatime.com/@534b145b-8c36-4597-97b2-6ead3fe184ce)
 
 <br/>
 <p align="center">
